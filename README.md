@@ -6,7 +6,7 @@
 
 ---
 
-# 🛡️ PROFILE STATUS (LIVE)
+# 🛡️ PROFILE STATUS
 🟢 System: Online  
 ⚡ Mode: Learning Cyber Security  
 💀 Threat Analysis: Active  
@@ -24,7 +24,7 @@ Cyber Security learner focused on networking, system protection and ethical hack
 
 ---
 
-# ⚙️ SKILLS (NEON MODE)
+# ⚙️ SKILLS
 
 ![HTML](https://img.shields.io/badge/HTML5-0ff?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-8a2be2?style=for-the-badge&logo=css3)
@@ -33,13 +33,13 @@ Cyber Security learner focused on networking, system protection and ethical hack
 
 ---
 
-# 📊 GITHUB STATS (LIVE)
+# 📊 GITHUB STATS
 
 ![stats](https://github-readme-stats.vercel.app/api?username=Amalbekxon&show_icons=true&theme=tokyonight)
 
 ---
 
-# 📈 ACTIVITY GRAPH (ANIMATED LOOK)
+# 📈 ACTIVITY GRAPH 
 
 ![graph](https://github-readme-activity-graph.vercel.app/graph?username=Amalbekxon&theme=react-dark)
 
