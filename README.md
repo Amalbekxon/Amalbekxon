@@ -1,71 +1,37 @@
-<!-- 🌌 NEON HEADER -->
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0ff,100:8a2be2&height=200&section=header&text=Amalbekxon%20Cyber%20Security&fontSize=32&fontColor=ffffff&animation=twinkling)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ff,100:8a2be2&height=200&section=header&text=AMALBEKXON%20ROOT%20ACCESS&fontSize=35&fontColor=ffffff&animation=twinkling" />
+</p>
 
-<!-- ⚡ TYPING EFFECT -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F0FF&center=true&vCenter=true&width=800&lines=Cyber+Security+Developer;Ethical+Hacker+in+Progress;System+Protector;Neon+Digital+World+Explorer)](https://git.io/typing-svg)
-
----
-
-# 🛡️ PROFILE STATUS (LIVE)
-🟢 System: Online  
-⚡ Mode: Learning Cyber Security  
-💀 Threat Analysis: Active  
-🧠 Focus: Building Secure Systems  
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00F0FF&center=true&vCenter=true&width=600&lines=INITIALIZING+EXPLOIT...;ENCRYPTING+DATA...;BYPASSING+FIREWALLS...;PROTECTING+THE+CORE+SYSTEMS;">
+  </a>
+</p>
 
 ---
 
-# 🧠 ABOUT ME
-Cyber Security learner focused on networking, system protection and ethical hacking fundamentals.
+### 🟢 [SYSTEM_STATUS: ONLINE]
+> Identity: Amalbekxon  
+> Specialization: Cybersecurity Developer | Ethical Hacker in Progress  
+> Field: Penetration Testing & Secure Systems  
 
----
-
-# 🐍 CONTRIBUTION SNAKE
-![snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-
----
-
-# ⚙️ SKILLS (NEON MODE)
-
-![HTML](https://img.shields.io/badge/HTML5-0ff?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-8a2be2?style=for-the-badge&logo=css3)
-![Python](https://img.shields.io/badge/Python-00c3ff?style=for-the-badge&logo=python)
-![Git](https://img.shields.io/badge/Git-ff4d4d?style=for-the-badge&logo=git)
-
----
-
-# 📊 GITHUB STATS (LIVE)
-
-![stats](https://github-readme-stats.vercel.app/api?username=Amalbekxon&show_icons=true&theme=tokyonight)
-
----
-
-# 📈 ACTIVITY GRAPH (ANIMATED LOOK)
-
-![graph](https://github-readme-activity-graph.vercel.app/graph?username=Amalbekxon&theme=react-dark)
-
----
-
-# 🌌 NEON CYBER ZONE
-
-🟢 SYSTEM STATUS: ACTIVE  
-⚡ SECURITY LEVEL: JUNIOR ANALYST  
-💀 THREAT DETECTION: ENABLED  
-🧠 THINKING MODE: ANALYTICAL  
-
----
-
-# 🎯 CURRENT FOCUS
-- Cyber Security Basics  
-- Networking (TCP/IP, DNS)  
-- Ethical Hacking Intro  
-- Linux Fundamentals  
-
----
-
-# 📫 CONTACT
-Telegram: @yourusername  
-
----
-
-# 🌟 QUOTE
-> "In cybersecurity, understanding the system is the first step to protecting it."
+`bash
+root@Amalbekxon:~$ neofetch --user Amalbekxon
+ 📊 ANALYTICAL DASHBOARD
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DAmalbekxon%26show_icons%3Dtrue%26theme%3Dtokyonight%26border_color%3D00f0ff%26hide_border%3Dfalse" width="48%">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DAmalbekxon%26layout%3Dcompact%26theme%3Dtokyonight%26border_color%3D00f0ff%26hide_border%3Dfalse" width="48%">
+</p>
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DAmalbekxon%26theme%3Dtokyonight%26color%3D00f0ff" width="100%">
+</p>
+🛡️ CURRENT MISSION OBJECTIVES
+[ ] CTF Training: Solving 100+ machines on TryHackMe/HackTheBox.
+[ ] Scripting: Developing custom Python scanners for vulnerabilities.
+[ ] Networking: Deep dive into Deep Packet Inspection (DPI).
+[ ] Contribution: Helping the open-source community with secure code.
+📡 SECURE COMMUNICATION CHANNEL
+  Telegram: "@Amalbekxon"
+  Location: "Tashkent, Uzbekistan"
+  Status: "Encrypted and waiting for connection..."
+  PGP_Key: "0x4F2A7B9C... [LOCKED]"
