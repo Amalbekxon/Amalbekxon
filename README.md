@@ -47,7 +47,7 @@ Cyber Security learner focused on networking, system protection and ethical hack
 
 # 🌌 NEON CYBER ZONE
 
-🟢 SYSTEM STATUS: ACTIVE  
+🟢 SYSTEM STATUS: ACTIVE EVERYDAY
 ⚡ SECURITY LEVEL: JUNIOR ANALYST  
 💀 THREAT DETECTION: ENABLED  
 🧠 THINKING MODE: ANALYTICAL  
